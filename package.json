@@ -1,7 +1,7 @@
 {
   "name": "open-science-101",
   "version": "1.0.0",
-  "description": "Slides from my Open Science 101 presentation",
+  "description": "A practical introduction to Open Science",
   "scripts": {
     "serve": "webpack-dev-server",
     "build": "webpack -p --display-modules --progress --colors --output-public-path '/Scientific-Big-Data-challenges-sharing-and-ethics/'"
