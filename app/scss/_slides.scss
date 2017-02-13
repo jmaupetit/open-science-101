@@ -1,0 +1,124 @@
+.reveal {
+  .controls {
+    bottom: 30px;
+    right: 0;
+  }
+
+  section {
+    font-weight: $mainFontWeight !important;
+
+    &:last-child {
+      img {
+        margin-right: 1rem;
+        vertical-align: middle;
+      }
+    }
+
+    .title {
+      h3 {
+        margin-bottom: 0.2em;
+        text-transform: uppercase;
+        border: 0;
+        padding: 0;
+        background-color: inherit;
+        color: $mainColor;
+      }
+
+      h2 {
+        background-color: $mainColor;
+        color: $mainColorAlt;
+        padding: 0.4em;
+        margin-bottom: 0;
+        text-transform: uppercase;
+      }
+
+      h4 {
+        padding: 0.4em 0;
+        background-color: $linkColor;
+        color: $mainColorAlt;
+      }
+
+      h6.author {
+        color: lighten($mainColor, 30%);
+        margin-top: 1.4em;
+      }
+    }
+
+    h2 {
+      background-color: $mainColor;
+      color: $mainColorAlt;
+      padding: 0.4em 0;
+      text-transform: uppercase;
+    }
+
+    h3 {
+      padding: 0.5em;
+      margin-bottom: 0.5em;
+      background-color: rgba($linkColor, 0.9);
+      color: $mainColorAlt;
+    }
+
+    img {
+      margin: 10px 0;
+      background: none;
+      border: 0;
+      box-shadow: 0 0 0;
+      max-height: 600px;
+    }
+
+    p {
+      font-weight: $mainFontWeight;
+
+      strong {
+        font-weight: 400;
+      }
+
+      &.air {
+        margin-bottom: 1em;
+      }
+
+      span {
+        font-weight: 500;
+      }
+    }
+
+    ul {
+      font-weight: $mainFontWeight;
+    }
+
+    blockquote {
+      border-radius: 5px;
+      background-color: $mainColor;
+      color: $mainColorAlt;
+      padding: 0.6em;
+      font-style: normal;
+      font-size: 1em;
+      line-height: 1.2em;
+
+      p {
+        font-weight: 100 !important;
+        margin-bottom: 0;
+      }
+
+      cite {
+        display: block;
+        border-top: 1px solid $mainColorAlt;
+        margin-top: 0.6em;
+        font-size: 0.6em;
+        text-align: right;
+      }
+    }
+
+    table {
+      width: 100%;
+
+      th {
+        padding: 0.3em;
+      }
+
+      td {
+
+      }
+    }
+  }
+}

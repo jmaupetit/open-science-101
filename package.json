@@ -1,0 +1,29 @@
+{
+  "name": "Open Science 101",
+  "version": "1.0.0",
+  "description": "Slides from my Open Science 101 presentation",
+  "scripts": {
+    "serve": "webpack-dev-server",
+    "build": "webpack -p --display-modules --progress --colors --output-public-path '/Scientific-Big-Data-challenges-sharing-and-ethics/'"
+  },
+  "author": "Julien Maupetit",
+  "license": "CC-BY-SA-4.0",
+  "devDependencies": {
+    "autoprefixer": "^6.7.2",
+    "clean-webpack-plugin": "^0.1.15",
+    "copy-webpack-plugin": "^4.0.1",
+    "css-loader": "^0.26.1",
+    "extract-text-webpack-plugin": "^2.0.0-rc.2",
+    "file-loader": "^0.10.0",
+    "html-loader": "^0.4.4",
+    "node-sass": "^4.5.0",
+    "path": "^0.12.7",
+    "postcss-loader": "^1.2.2",
+    "reveal.js": "^3.4.1",
+    "sass-loader": "^4.1.1",
+    "style-loader": "^0.13.1",
+    "url-loader": "^0.5.7",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^1.16.3"
+  }
+}

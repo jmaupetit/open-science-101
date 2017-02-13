@@ -1,0 +1,33 @@
+// Background of the presentation
+$backgroundColor: #efefef;
+
+// Primary/body text
+$mainFont: 'LatoLatinThin', sans-serif;
+$mainFontSize: 44px;
+$mainColor: #333;
+$mainColorAlt: #fff;
+$mainFontWeight: 700;
+
+// Headings
+$headingFont: 'LatoLatin', 'Helvetica', Helvetica, Arial, sans-serif;
+$headingColor: #444;
+$headingLineHeight: 1em;
+$headingLetterSpacing: 0.02em;
+$headingTextTransform: none;
+$headingTextShadow: none;
+
+// Links and actions
+$linkColor: #19BEC0;
+$linkColorHover: lighten($linkColor, 20%);
+
+// Text selection
+$selectionBackgroundColor: #39b195;
+$selectionColor: $mainColorAlt;
+
+// Override theme settings (see ../template/settings.scss)
+$heading1TextShadow: 0 1px 0 $mainColorAlt;
+
+// Background generator
+@mixin bodyBackground($color: $backgroundColor) {
+  @include radial-gradient(rgba($color, 0), rgba($color, 1));
+}
