@@ -242,7 +242,7 @@ journals.
 
 ---
 
-### collaborative platform
+### Use collaborative platform
 
 ![](img/Logo_osf.png)
 
