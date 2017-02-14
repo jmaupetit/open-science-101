@@ -83,7 +83,7 @@ knowledge-sharing perspective.
 
 ---
 
-![OpenScience pillars](img/OpenScience_pillars.png "Open Science pillars")
+<img src="img/OpenScience_pillars.png" alt="Open Science pillars" class="rotate">
 
 <small>Source: [Wikimedia commons](https://commons.wikimedia.org/wiki/File:Open_Science_-_Prinzipien.png)</small>
 

@@ -6,8 +6,7 @@ a {
     padding: 0.3em !important;
 
     &:hover {
-      transform: none;
-      background-color: rgba($mainColor, 0.2) !important;
+      background-color: rgba($mainColor, 0.1) !important;
     }
   }
 }
@@ -59,12 +58,6 @@ footer.slide-footer {
 }
 
 img {
-  transition: all 1s ease;
-
-  &:hover {
-    transform-origin: 50% 80%;
-    transform: rotate(-90deg);
-  }
 
   &.slide-logo {
     position: fixed;
