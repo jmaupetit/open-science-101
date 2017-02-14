@@ -95,7 +95,7 @@ knowledge-sharing perspective.
 
 ---
 
-### Ask yourself the good questions
+### Ask yourself (unexpected) questions
 
 * What is my data management plan?
 * To whom belongs my research data?
