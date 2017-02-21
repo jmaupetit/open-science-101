@@ -189,6 +189,15 @@ find and share life science protocols.
 
 ---
 
+### Share your source code
+
+[![](img/Logo_GitHub.png)](https://github.com/blog/1840-improving-github-for-science)
+[![](img/Logo_GitLab.png)](http://gitlab.com)
+
+[github.com](https://github.com) / [gitlab.com](https://gitlab.com)
+
+---
+
 ### Use collaborative writing tools
 
 > Authorea is used by over 65,000 researchers. It allows you to write, cite,
