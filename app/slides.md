@@ -263,6 +263,14 @@ journals.
 
 ➤ [osf.io](https://osf.io)
 
+---
+
+### Learn the how
+
+![](img/logo-open-science-mooc.jpg)
+
+➤ [Open Science MOOC](http://fossilsandshit.com/badassery/open-science-mooc/)
+
 ----
 
 ### Modern Science Weekly
