@@ -51,6 +51,12 @@ I am an Open Science advocate.
 
 ---
 
+![TailorDev](img/Logo_TailorDev.png "Logo TailorDev")
+
+#### Development | Consulting | Training
+
+---
+
 ### The Open Science Company Manifesto
 
 [http://manifesto.tailordev.fr](http://manifesto.tailordev.fr)
@@ -256,6 +262,14 @@ journals.
 ![](img/Logo_osf.png)
 
 ➤ [osf.io](https://osf.io)
+
+---
+
+### Learn the how
+
+![](img/logo-open-science-mooc.jpg)
+
+➤ [Open Science MOOC](http://fossilsandshit.com/badassery/open-science-mooc/)
 
 ----
 
