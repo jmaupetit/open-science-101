@@ -51,6 +51,12 @@ I am an Open Science advocate.
 
 ---
 
+![TailorDev](img/Logo_TailorDev.png "Logo TailorDev")
+
+#### Development | Consulting | Training
+
+---
+
 ### The Open Science Company Manifesto
 
 [http://manifesto.tailordev.fr](http://manifesto.tailordev.fr)
